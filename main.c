@@ -1,2 +1,4 @@
 int main()
-{return 0;}
+{//koment
+  return 0;
+}
